@@ -1,0 +1,137 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+.env
+venv.bak/
+env.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+.jupyter/
+.ipythonrc
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+.vim/
+.emacs.d/
+*.code-workspace
+
+# OS-specific files
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+*.icloud
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.lnk
+$RECYCLE.BIN/
+
+# Linux
+.directory
+
+# Dependencies
+*.pip
+pip-log.txt
+pip-delete-this-directory.txt
+requirements-lock.txt
+
+# Testing
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+htmlcov/
+
+# Data and Models
+*.csv
+*.json
+*.parquet
+*.pkl
+*.pickle
+*.h5
+*.pth
+*.pt
+*.model
+*.weights
+
+# Notebooks output
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# MacOS
+.DS_Store
+
+# Windows
+*.exe
+*.dll
+*.so
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+
+# Environment variables
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
