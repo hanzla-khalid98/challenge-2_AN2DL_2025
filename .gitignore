@@ -100,9 +100,10 @@ htmlcov/
 *.pickle
 *.h5
 *.pth
-*.pt
 *.model
 *.weights
+*.zip
+*.tar.gz
 
 # Notebooks output
 .ipynb_checkpoints/
